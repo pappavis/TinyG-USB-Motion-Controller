@@ -35,3 +35,6 @@ TinyG USB Motion Controller
 CNC-3040Z-DQ router<br/>
 <img src="https://sc01.alicdn.com/kf/HTB1cwn2JVXXXXalXpXXq6xXFXXXa/Fist-CNC-3040Z-DQ-4axis-sculpture-machine.jpg_350x350.jpg">
 <br/>
+
+Voorbeeld printplaat<br/>
+<img src="https://i.imgur.com/3lKJaZVm.jpg"><br/>
