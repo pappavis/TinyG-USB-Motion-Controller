@@ -3,6 +3,13 @@ TinyG instellings
 
 TinyG CNC motion controller instellingen voor CNC 3040Z-DQ router met Nema-23 stepper motor. <br/>
 
+Instellingen
+---
+1. Surf naar http://chilipeppr.com/tinyg <br/>
+2. Kies tandratje.<br/>
+3. Kies tabblad Axis. <br/>
+4. Invullen de instellingen uit het conf-bestand <br/>
+
 <img src="https://camo.githubusercontent.com/d4c76c31d36a5520c180db03f5c179caee23d672/687474703a2f2f6661726d342e737461746963666c69636b722e636f6d2f333731392f31323639323538353731355f636131373433303463305f622e6a7067" width="50%" hight="50%">
 <br/>
 <br/>
