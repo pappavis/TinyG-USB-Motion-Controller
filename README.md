@@ -28,7 +28,7 @@ Velocity max=450<br/>
 
 TinyG USB Motion Controller
 ---
-https://github.com/synthetos/TinyG
+https://github.com/synthetos/TinyG <br/>
 <img src="https://camo.githubusercontent.com/d4c76c31d36a5520c180db03f5c179caee23d672/687474703a2f2f6661726d342e737461746963666c69636b722e636f6d2f333731392f31323639323538353731355f636131373433303463305f622e6a7067" width="50%" hight="50%">
 <br/>
 <br/>
